@@ -1,0 +1,15 @@
+这里踩了 快半个小时的坑
+
+为了避免这个编译的坑这里写了一点总结
+
+一定要读文件中的./ch3/visualizeGeometry/Readme.txt
+
+文件，要不然 安装不了 Pangolin
+
+需要一个库
+sudo apt update
+sudo apt install libeigen3-dev
+
+这边用Python重构就直接用 
+pip3 install eigenpy
+
