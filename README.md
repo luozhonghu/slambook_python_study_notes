@@ -1,0 +1,2 @@
+# slambook_python_study_notes
+这个项目是基于高翔老师的《视觉SLAM十四讲》进行学习和Python重构的笔记
